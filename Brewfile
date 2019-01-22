@@ -16,6 +16,7 @@ brew "awscli"
 brew "tmux"
 brew "vim"
 brew "zsh"
+brew "fish"
 brew "zsh-completions"
 
 cask_args appdir: "/Applications"
